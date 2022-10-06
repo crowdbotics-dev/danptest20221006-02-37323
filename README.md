@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-articles](modules/articles)
 - [django-articles](backend/modules)
 - [screen-onboarding-2](screens/onboarding-2)
+- [screen-about-the-app](screens/about-the-app)
 
 # Getting started: Frontend
 
